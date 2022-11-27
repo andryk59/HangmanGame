@@ -1,0 +1,1 @@
+This is my first project that i made by myself based on the old game hangman where u have the word, more precisely someone tells you a word and u need to guess it letter by letter, where for every wrong letter you get closer and closer to defeat. As i said, its my first projects so i may be will work with him later and make something bigger.
